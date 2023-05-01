@@ -9,10 +9,17 @@
 **Padrões comportamentais:** Os padrões dessa categoria atuam diretamente na delegação de responsabilidades, definindo como os objetos devem se comportar e se comunicar.
 </p>
 
-<h2>PADRÃO DE PROJETO FACTORY METHOD</2>
+<h2>PADRÃO DE PROJETO FACTORY METHOD</h2>
+<p>As subclasses decidem quais classes concretas serão criadas.</p>
+
+<h2>PADRÃO ABSTRACT FACTORY</h2>
 <p>Permite que um cliente crie famílias de objetos sem especificar suas classes concretas.</p>
 
+<h2>PADRÃO PROTOTYPE</h2>
+<p>Permite você criar novas instancias simplesmente copiando instancias existentes.</p>
 
+<h2>PADRÃO SINGLETON</h2>
+<p>Assegura que somente um objeto de uma determinada classe seja criado em todo o projeto.</p>
 
 <h2>🔗Referências</h2>
 <ul>
