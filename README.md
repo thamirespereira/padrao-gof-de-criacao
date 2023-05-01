@@ -21,6 +21,10 @@
 <h2>PADRÃO SINGLETON</h2>
 <p>Assegura que somente um objeto de uma determinada classe seja criado em todo o projeto.</p>
 
+<h2>PADRÃO BUILDER</h2>
+<p>Encapsular a construção de um produto e permitir que ele seja construído em etapas.</p>
+
+
 <h2>🔗Referências</h2>
 <ul>
 <li>https://www.treinaweb.com.br/blog/padroes-de-projeto-o-que-sao-e-o-que-resolvem</li>
